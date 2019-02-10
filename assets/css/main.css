@@ -1965,11 +1965,11 @@
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 50%;
+			width: 25%;
 		}
 
 			.image.fit img {
-				width: 50%;
+				width: 25%;
 			}
 
 		.image.main {
