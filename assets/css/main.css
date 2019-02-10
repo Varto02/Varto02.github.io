@@ -1969,7 +1969,8 @@
 		}
 
 			.image.fit img {
-				width: 25%;
+				width: 100px;
+				height: 100px;
 			}
 
 		.image.main {
